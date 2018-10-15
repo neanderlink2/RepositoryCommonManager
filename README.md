@@ -6,7 +6,7 @@ Criar pastas específicas em cada projeto. De preferência, criar um namespace �
 Hierarquia:
 
   Assets
-    -> Repositories
+    -> Repositories\n
         ->Entidades (Onde ficarão as classes para trasformar em JSON)
         ->Repository (Classes que serão usadas para acessar os arquivos JSON)
           ->Interfaces (Interfaces específicas de cada classe)
